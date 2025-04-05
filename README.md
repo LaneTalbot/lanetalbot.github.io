@@ -1,6 +1,15 @@
 # Lane Talbot
-
 Fiction and essays that pair well with exotic cocktails served in haunted hotel bars by the sexiest ghosts one could survive directly beholding.
+<p align="center">
+  <img src="https://lanetalbot.github.io/Screenshot_5-4-2025_64959_lanetalbot.ghost.io.jpeg" width="200" alt="Lane Talbot Headshot">
+</p>
+
+---
+
+## Subscribe
+
+- [Thrill State (Personal)](https://thrillstate.substack.com)
+- [Dark Midwest (The archive of fictional, sinister and mysterious secrets spreading from the dark center of the country.)](https://darkmidwest.substack.com)
 
 ---
 
@@ -17,13 +26,6 @@ Lane Talbot is also a known alias of the adventurer and thief believed responsib
 Few facts of his life are known but intelligence analysts agree he was raised among the many thieves guilds of Eastern Europe before he left for the States where he likely now spends time between operations in the American Southwest.
 
 There he is rumored to hunt and collect codices and supernatural artifacts from the period of the Mexican Inquisition. The reason for this is unknown but research continues.
-
----
-
-## Subscribe to My Blogs
-
-- [Thrill State (Personal)](https://thrillstate.substack.com)
-- [Dark Midwest (The archive of fictional, sinister and mysterious secrets spreading from the dark center of the country.)](https://darkmidwest.substack.com)
 
 ---
 
