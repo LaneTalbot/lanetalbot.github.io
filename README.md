@@ -6,7 +6,7 @@ Fiction and essays that pair well with exotic cocktails served in haunted hotel 
 
 ## About
 
-Lane Talbot is a Chicago-based novelist, essayist and short story writer. His work has been nominated for awards and long-listed at Best American Mystery Stories.
+Lane Talbot is a Chicago-based novelist, essayist and short story writer. His work has been nominated for awards and long-listed at *Best American Mystery Stories*.
 
 He works in advertising and marketing at LinkedIn. He is a consultant and speaker.
 
@@ -18,6 +18,8 @@ Few facts of his life are known but intelligence analysts agree he was raised am
 
 There he is rumored to hunt and collect codices and supernatural artifacts from the period of the Mexican Inquisition. The reason for this is unknown but research continues.
 
+---
+
 ## Subscribe to My Blogs
 
 - [Thrill State (Personal)](https://thrillstate.substack.com)
@@ -28,49 +30,48 @@ There he is rumored to hunt and collect codices and supernatural artifacts from 
 ## Writing Portfolio
 
 ### Novellas
--“Cannonfire” Storylandia, winter 2017
--“North Dark” Sirens Call Publications, spring 2013
+- *Cannonfire*, Storylandia, winter 2017  
+- *North Dark*, Sirens Call Publications, spring 2013
 
 ### Short Stories
--“Just Be a Good Person” Over My Dead Body, fall 2015
--“Action Figures” Able Muse, fall 2015
--“Destroyer Comes Home” Progenitor, spring 2015
--“Big Hard Squall” ThugLit, spring 2015
--“Asylum” Toasted Cheese, spring 2015
--“Brutus” Buffalo Almanac, spring 2015
--“The Hunters” Eunoia Review, spring 2015
--“Cursed” Berkeley Fiction Review, spring 2012
--“The Hunters” The Sheepshead Review, spring 2012
--“The Dragoon” Powers, Pill Hill Press, November 2010
--“They’re My Arms Now” Poor Mojo’s Almanac(k), fall 2008 
--“The Dragoon” Prick of the Spindle, fall 2008
--“Hellry” The North Central Review, spring 2008
--“Ghost Summer” The Story Week Reader, fall 2007
+- “Just Be a Good Person” – *Over My Dead Body*, fall 2015  
+- “Action Figures” – *Able Muse*, fall 2015  
+- “Destroyer Comes Home” – *Progenitor*, spring 2015  
+- “Big Hard Squall” – *Thuglit*, spring 2015  
+- “Asylum” – *Toasted Cheese*, spring 2015  
+- “Brutus” – *Buffalo Almanac*, spring 2015  
+- “The Hunters” – *Eunoia Review*, spring 2015  
+- “Cursed” – *Berkley Fiction Review*, spring 2012  
+- “The Hunters” – *The Sheepshead Review*, spring 2012  
+- “The Dragoon” – *Pill Hill Press*, November 2010  
+- “They’re My Arms Now” – *Poor Mojo’s Almanac(k)*, fall 2008  
+- “The Dragoon” – *Prick of the Spindle*, fall 2008  
+- “Helly” – *The North Central Review*, spring 2008  
+- “Ghost Sonnet” – *The Story Week Reader*, fall 2007
 
 ### Nonfiction
-“Mike the Killer” Flashquake, spring 2009
+- “Mike the Killer” – *Flashquake*, spring 2009
 
 ### Awards
--Cross-functional MVP @ LinkedIn 2024
--Cross-functional MVP @ LinkedIn 2023
--Best American Mystery Stories 2016, Notable fiction, "Destroyer Comes Home"
--“Destroyer Comes Homes” nominated for a Pushcart Prize, Able Muse, winter 2015
--“Brutus” Long list, Ropewalk Press Chapbook Contest, University of Southern Indiana, spring 2015
--Graduate Teaching Assistant of the Year nomination, spring 2011
--Merit Scholarship, Ropewalk Writers Retreat, summer 2010
--“The Hunt Club” 2nd Place MVP Award, New Rivers Press, spring 2010
--Traveling Fellowship, Southern Illinois University, fall 2009
+- Cross-functional MVP @ LinkedIn 2024  
+- Cross-functional MVP @ LinkedIn 2023  
+- *Best American Mystery Stories* 2016, Notable Fiction for “Destroyer Comes Home”  
+- “Destroyer Comes Home” nominated for a Pushcart Prize, *Able Muse*  
+- “Brutus” long-listed for Ropewalk Press Chapbook Contest, University of Southern Indiana, 2015  
+- Graduate Teaching Assistant of the Year nomination, 2011  
+- Merit Scholarship, Ropewalk Writers Retreat, summer 2010  
+- *The Hunt Club*, 2nd Place MVP Award, *New Rivers Press*, 2010  
+- Traveling Fellowship, Southern Illinois University, fall 2009
 
 ---
 
 ## Contact and Socials
 
-Email: Lane.Talbot@Outlook.com
-LinkedIn: [LinkedIn](https://linkedin.com/in/lanetalbot)
-Bluesky: [Bluesky](https://bsky.app/profile/lanetalbot.bsky.social)
-Threads: [@LaneTalbot](https://threads.net/@lanetalbot)
-Medium: [Medium Articles](https://medium.com/@lanetalbot)
-
+**Email**: Lane.Talbot@outlook.com  
+**LinkedIn**: [LinkedIn](https://linkedin.com/in/lanetalbot)  
+**Bluesky**: [Bluesky](https://bsky.app/profile/lanetalbot.bsky.social)  
+**Threads**: [@LaneTalbot](https://www.threads.net/@lanetalbot)  
+**Medium**: [Medium Articles](https://medium.com/@lanetalbot)
 
 ---
 
