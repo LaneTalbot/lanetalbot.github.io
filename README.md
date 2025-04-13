@@ -8,8 +8,8 @@ Fiction and essays that pair well with exotic cocktails served in haunted hotel 
 
 ## Subscribe
 
-- [Thrill State (Personal)](https://thrillstate.substack.com)
-- [Dark Midwest (The archive of fictional, sinister and mysterious secrets spreading from the dark center of the country.)](https://darkmidwest.substack.com)
+- [Thrill State (Personal blog)](https://thrillstate.substack.com)
+- [Dark Midwest (Full psycho blog: The archive of fictional, sinister and mysterious secrets spreading from the dark center of the country.)](https://darkmidwest.substack.com)
 
 ---
 
@@ -19,9 +19,9 @@ Lane Talbot is a Chicago-based novelist, essayist and short story writer. His wo
 
 He works in advertising and marketing at LinkedIn. He is a consultant and speaker.
 
-He is also a marathoner and fitness enthusiast. He lives with his wife, children and their Australian Shepherd.
+But also.
 
-Lane Talbot is also a known alias of the adventurer and thief believed responsible for sneaking aboard an armored private train and absconding with the personal journals of a minor foreign adversary.
+Lane Talbot is a known alias of the adventurer and thief believed responsible for sneaking aboard an armored private train and absconding with the personal journals of a minor foreign adversary.
 
 Few facts of his life are known but intelligence analysts agree he was raised among the many thieves guilds of Eastern Europe before he left for the States where he likely now spends time between operations in the American Southwest.
 
