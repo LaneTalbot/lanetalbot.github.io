@@ -50,18 +50,22 @@
       font-size: 0.9rem;
       color: #888;
     }
-  </style>
-</head>
-<body>
+<style>
+  body { font-family: Merriweather, serif; ... }
+  img {
+    display: block;
+    margin: 1rem auto;
+    max-width: 160px;
+    border-radius: 100px;
+  }
+</style>
 
-<header>
-  <h1>Lane Talbot</h1>
-  ![Lane Talbot](LaneTalbotHeadshot%20(1).jpeg)
-  <nav>
-    <a href="#about">About</a>
-    <a href="#writing">Writing</a>
-    <a href="#advertising">Advertising</a>
-    <a href="#contact">Contact</a>
+# Lane Talbot
+
+![Lane Talbot](LaneTalbotHeadshot%20(1).jpeg)
+
+[About](#about) [Writing](#writing) [Advertising](#advertising) [Contact](#contact)
+
   </nav>
 </header>
 
