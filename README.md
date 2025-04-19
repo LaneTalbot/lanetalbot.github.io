@@ -1,80 +1,97 @@
-# Lane Talbot
-Fiction and essays that pair well with exotic cocktails served in haunted hotel bars by the sexiest ghosts one could survive directly beholding.
-<p align="center">
-  <img src="https://lanetalbot.github.io/Screenshot_5-4-2025_64959_lanetalbot.ghost.io.jpeg" width="200" alt="Lane Talbot Headshot">
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lane Talbot</title>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Roboto&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Merriweather', serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+      color: #222;
+    }
+    header {
+      background: #111;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    nav {
+      margin-top: 1rem;
+    }
+    nav a {
+      color: #ccc;
+      margin: 0 1rem;
+      text-decoration: none;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+      background: white;
+    }
+    h2 {
+      border-bottom: 1px solid #eee;
+      padding-bottom: 0.25rem;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
 
----
+<header>
+  <h1>Lane Talbot</h1>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#writing">Writing</a>
+    <a href="#advertising">Advertising</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
 
-## Subscribe
+<div class="container">
+  <section id="about" class="section">
+    <h2>About Me</h2>
+    <p>I’m Lane Talbot—an award-winning fiction writer and advertising strategist at LinkedIn. I tell stories that move people, whether across pages or across pipelines. My work spans short stories published in top literary journals, and marketing strategy that drives Fortune 500 growth.</p>
+  </section>
 
-- [Thrill State (Personal blog)](https://thrillstate.substack.com)
-- [Dark Midwest (Full psycho blog: The archive of fictional, sinister and mysterious secrets spreading from the dark center of the country.)](https://darkmidwest.substack.com)
+  <section id="writing" class="section">
+    <h2>Fiction</h2>
+    <p>My fiction appears in <em>Best American Mystery Stories</em>, <em>Berkeley Fiction Review</em>, <em>ThugLit</em>, and more. I write about fear, survival, and the strange undercurrents of American life.</p>
+    <p>Read more at <a href="https://darkmidwest.substack.com" target="_blank">Dark Midwest</a> and <a href="https://thrillstate.substack.com" target="_blank">Thrill State</a>.</p>
+  </section>
 
----
+  <section id="advertising" class="section">
+    <h2>Advertising Strategy</h2>
+    <p>As a Senior Content Solutions Consultant at LinkedIn, I help brands build authority and trust through creative that actually converts. My background spans brand narrative, inbound strategy, and campaign execution.</p>
+    <p>Follow my industry analysis and storytelling breakdowns on <a href="https://www.linkedin.com/in/lanetalbot/" target="_blank">LinkedIn</a>.</p>
+  </section>
 
-## About
+  <section id="contact" class="section">
+    <h2>Contact</h2>
+    <p>Email: lanetalbot@gmail.com<br>
+    Twitter: <a href="https://twitter.com/lanetalbot" target="_blank">@lanetalbot</a></p>
+  </section>
+</div>
 
-Lane Talbot is a Chicago-based novelist, essayist and short story writer. His work has been nominated for awards and long-listed at *Best American Mystery Stories*.
+<footer>
+  &copy; 2025 Lane Talbot. All rights reserved.
+</footer>
 
-He works in advertising and marketing at LinkedIn. He is a consultant and speaker.
-
-But also.
-
-Lane Talbot is a known alias of the adventurer and thief believed responsible for sneaking aboard an armored private train and absconding with the personal journals of a minor foreign adversary.
-
-Few facts of his life are known but intelligence analysts agree he was raised among the many thieves guilds of Eastern Europe before he left for the States where he likely now spends time between operations in the American Southwest.
-
-There he is rumored to hunt and collect codices and supernatural artifacts from the period of the Mexican Inquisition. The reason for this is unknown but research continues.
-
----
-
-## Writing Portfolio
-
-### Novellas
-- *Cannonfire*, Storylandia, winter 2017  
-- *North Dark*, Sirens Call Publications, spring 2013
-
-### Short Stories
-- “Just Be a Good Person” – *Over My Dead Body*, fall 2015  
-- “Action Figures” – *Able Muse*, fall 2015  
-- “Destroyer Comes Home” – *Progenitor*, spring 2015  
-- “Big Hard Squall” – *Thuglit*, spring 2015  
-- “Asylum” – *Toasted Cheese*, spring 2015  
-- “Brutus” – *Buffalo Almanac*, spring 2015  
-- “The Hunters” – *Eunoia Review*, spring 2015  
-- “Cursed” – *Berkley Fiction Review*, spring 2012  
-- “The Hunters” – *The Sheepshead Review*, spring 2012  
-- “The Dragoon” – *Pill Hill Press*, November 2010  
-- “They’re My Arms Now” – *Poor Mojo’s Almanac(k)*, fall 2008  
-- “The Dragoon” – *Prick of the Spindle*, fall 2008  
-- “Helly” – *The North Central Review*, spring 2008  
-- “Ghost Sonnet” – *The Story Week Reader*, fall 2007
-
-### Nonfiction
-- “Mike the Killer” – *Flashquake*, spring 2009
-
-### Awards
-- Cross-functional MVP @ LinkedIn 2024  
-- Cross-functional MVP @ LinkedIn 2023  
-- *Best American Mystery Stories* 2016, Notable Fiction for “Destroyer Comes Home”  
-- “Destroyer Comes Home” nominated for a Pushcart Prize, *Able Muse*  
-- “Brutus” long-listed for Ropewalk Press Chapbook Contest, University of Southern Indiana, 2015  
-- Graduate Teaching Assistant of the Year nomination, 2011  
-- Merit Scholarship, Ropewalk Writers Retreat, summer 2010  
-- *The Hunt Club*, 2nd Place MVP Award, *New Rivers Press*, 2010  
-- Traveling Fellowship, Southern Illinois University, fall 2009
-
----
-
-## Contact and Socials
-
-**Email**: Lane.Talbot@outlook.com  
-**LinkedIn**: [LinkedIn](https://linkedin.com/in/lanetalbot)  
-**Bluesky**: [Bluesky](https://bsky.app/profile/lanetalbot.bsky.social)  
-**Threads**: [@LaneTalbot](https://www.threads.net/@lanetalbot)  
-**Medium**: [Medium Articles](https://medium.com/@lanetalbot)
-
----
-
-© 2025 Lane Talbot. All rights reserved.
+</body>
+</html>
