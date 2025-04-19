@@ -1,9 +1,25 @@
 <style>
+  body {
+    font-family: Merriweather, serif;
+    background: #f7f7f7;
+    color: #222;
+  }
   img {
     display: block;
     margin: 1rem auto;
     max-width: 160px;
     border-radius: 100px;
+  }
+  a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  h2 {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.25rem;
   }
 </style>
 
@@ -11,40 +27,37 @@
 
 ![Lane Talbot](LaneTalbotHeadshot%20(1).jpeg)
 
-[About](#about) | [Writing](#writing) | [Advertising](#advertising) | [Contact](#contact)
+[About](#about) | [Fiction](#fiction) | [Advertising](#advertising-strategy) | [Contact](#contact)
 
+---
 
-  </nav>
-</header>
+## About
 
-<div class="container">
-  <section id="about" class="section">
-    <h2>About Me</h2>
-    <p>I’m Lane Talbot—an award-winning fiction writer and advertising strategist at LinkedIn. I tell stories that move people, whether across pages or across pipelines. My work spans short stories published in top literary journals, and marketing strategy that drives Fortune 500 growth.</p>
-  </section>
+I’m Lane Talbot—an award-winning fiction writer and advertising strategist at LinkedIn. I tell stories that move people, whether across pages or across pipelines. My work spans short stories published in top literary journals, and marketing strategy that drives Fortune 500 growth.
 
-  <section id="writing" class="section">
-    <h2>Fiction</h2>
-    <p>My fiction appears in <em>Best American Mystery Stories</em>, <em>Berkeley Fiction Review</em>, <em>ThugLit</em>, and more. I write about fear, survival, and the strange undercurrents of American life.</p>
-    <p>Read more at <a href="https://darkmidwest.substack.com" target="_blank">Dark Midwest</a> and <a href="https://thrillstate.substack.com" target="_blank">Thrill State</a>.</p>
-  </section>
+---
 
-  <section id="advertising" class="section">
-    <h2>Advertising Strategy</h2>
-    <p>As a Senior Content Solutions Consultant at LinkedIn, I help brands build authority and trust through creative that actually converts. My background spans brand narrative, inbound strategy, and campaign execution.</p>
-    <p>Follow my industry analysis and storytelling breakdowns on <a href="https://www.linkedin.com/in/lanetalbot/" target="_blank">LinkedIn</a>.</p>
-  </section>
+## Fiction
 
-  <section id="contact" class="section">
-    <h2>Contact</h2>
-    <p>Email: lanetalbot@gmail.com<br>
-    Twitter: <a href="https://twitter.com/lanetalbot" target="_blank">@lanetalbot</a></p>
-  </section>
-</div>
+My fiction appears in *Best American Mystery Stories*, *Berkeley Fiction Review*, *ThugLit*, and more. I write about fear, survival, and the strange undercurrents of American life.
 
-<footer>
-  &copy; 2025 Lane Talbot. All rights reserved.
-</footer>
+Read more at [Dark Midwest](https://darkmidwest.substack.com) and [Thrill State](https://thrillstate.substack.com).
 
-</body>
-</html>
+---
+
+## Advertising Strategy
+
+As a Senior Content Solutions Consultant at LinkedIn, I help brands build authority and trust through creative that actually converts. My background spans brand narrative, inbound strategy, and campaign execution.
+
+Follow my industry analysis and storytelling breakdowns on [LinkedIn](https://linkedin.com/in/lanetalbot).
+
+---
+
+## Contact
+
+Email: lanetalbot@gmail.com  
+Twitter: [@lanetalbot](https://twitter.com/lanetalbot)
+
+---
+
+© 2025 Lane Talbot. All rights reserved.
