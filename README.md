@@ -1,57 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lane Talbot</title>
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Roboto&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Merriweather', serif;
-      margin: 0;
-      padding: 0;
-      background: #f7f7f7;
-      color: #222;
-    }
-    header {
-      background: #111;
-      color: #fff;
-      padding: 2rem 1rem;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    nav {
-      margin-top: 1rem;
-    }
-    nav a {
-      color: #ccc;
-      margin: 0 1rem;
-      text-decoration: none;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-      background: white;
-    }
-    h2 {
-      border-bottom: 1px solid #eee;
-      padding-bottom: 0.25rem;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    footer {
-      text-align: center;
-      padding: 2rem;
-      font-size: 0.9rem;
-      color: #888;
-    }
 <style>
-  body { font-family: Merriweather, serif; ... }
   img {
     display: block;
     margin: 1rem auto;
@@ -64,7 +11,8 @@
 
 ![Lane Talbot](LaneTalbotHeadshot%20(1).jpeg)
 
-[About](#about) [Writing](#writing) [Advertising](#advertising) [Contact](#contact)
+[About](#about) | [Writing](#writing) | [Advertising](#advertising) | [Contact](#contact)
+
 
   </nav>
 </header>
