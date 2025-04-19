@@ -56,6 +56,7 @@
 
 <header>
   <h1>Lane Talbot</h1>
+  ![Lane Talbot](LaneTalbotHeadshot%20(1).jpeg)
   <nav>
     <a href="#about">About</a>
     <a href="#writing">Writing</a>
