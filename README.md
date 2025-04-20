@@ -27,6 +27,10 @@
 <h2 style="font-weight: normal; color: #444;">Fiction Writer | Advertising Strategist | Speaker</h2>
 
 ![Lane Talbot](LaneTalbotHeadshot%20(1).jpeg)
+<div style="margin-top: 1em;">
+  <a href="https://darkmidwest.substack.com" style="padding: 0.5em 1em; background: #000; color: #fff; text-decoration: none; margin-right: 1em; border-radius: 5px;">Dark Midwest</a>
+  <a href="https://www.linkedin.com/in/lanetalbot" style="padding: 0.5em 1em; background: #0077b5; color: #fff; text-decoration: none; border-radius: 5px;">LinkedIn</a>
+</div>
 
 [About](#about) | [Fiction](#fiction) | [Advertising](#advertising-strategy) | [Contact](#contact)
 
