@@ -24,6 +24,7 @@
 </style>
 
 # Lane Talbot
+<h2 style="font-weight: normal; color: #444;">Fiction Writer | Advertising Strategist | Speaker</h2>
 
 ![Lane Talbot](LaneTalbotHeadshot%20(1).jpeg)
 
