@@ -52,7 +52,6 @@
   }
 </style>
 
-<h1>Lane Talbot</h1>
 <h2 style="text-align:center; font-weight: normal; color: #444;">Fiction Writer | Advertising Strategist | Speaker</h2>
 <img src="LaneTalbotHeadshot (1).jpeg" alt="Lane Talbot Headshot" />
 
