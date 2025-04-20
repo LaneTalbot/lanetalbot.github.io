@@ -54,6 +54,17 @@ Follow my industry analysis and storytelling breakdowns on [LinkedIn](https://li
 
 ---
 
+<section>
+  <h2>Featured Work</h2>
+  <ul>
+    <li><strong>Novella:</strong> “NORTH DARK”</li>
+    <li><strong>Short Fiction:</strong> “Destroyer Comes Home” – Notable Fiction in Best American Mystery Stories</li>
+    <li><strong>Blog:</strong> “<a href="[#](https://darkmidwest.substack.com/)">Dark Midwest</a></li>
+  </ul>
+</section>
+
+---
+
 ## Contact
 
 Email: lanetalbot@gmail.com  
