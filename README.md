@@ -87,8 +87,8 @@
 <section>
   <h2>What I Do</h2>
   <ul>
-    <li><strong>Fiction:</strong> Short stories, horror, survival-themed novellas</li>
-    <li><strong>Consulting:</strong> Storytelling strategy, brand audits, creative messaging</li>
+    <li><strong>Fiction:</strong> Horror, thriller, craft essays.</li>
+    <li><strong>Consulting:</strong> Lead gen, brand strategy, AI.</li>
     <li><strong>Speaking:</strong> Keynotes and talks on advertising, AI, and narrative</li>
   </ul>
 </section>
@@ -97,8 +97,7 @@
   <h2>Featured Work</h2>
   <ul>
     <li><strong>Short Story:</strong> <a href="#">“Destroyer Comes Home”</a> — listed as Notable Fiction in <em>Best American Mystery Stories</em></li>
-    <li><strong>Essay:</strong> <a href="#">“The Corleone Brand Strategy”</a> — How The Godfather built credibility through olive oil</li>
-    <li><strong>Microfiction:</strong> <a href="#">“The Shadow Man of Orion”</a> — from <em>Dark Midwest</em></li>
+    <li><strong>Blog:</strong> <a href="#">“DarkMidwest”</a></li>
   </ul>
 </section>
 
