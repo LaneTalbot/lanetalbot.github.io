@@ -52,9 +52,9 @@ Read more at [Dark Midwest](https://darkmidwest.substack.com) and [Thrill State]
 
 ## Advertising Strategy
 
-As a Senior Content Solutions Consultant at LinkedIn, I help brands build authority and trust through creative that actually converts. My background spans brand narrative, inbound strategy, and campaign execution.
+I help brands build authority, trust, and conversions through standout creative strategy and storytelling. I bring deep experience in brand narrative, inbound strategy, and content execution—and I speak regularly about advertising effectiveness and AI in marketing.
 
-Follow my industry analysis and storytelling breakdowns on [LinkedIn](https://linkedin.com/in/lanetalbot).
+Follow my work on [LinkedIn](https://linkedin.com/in/lanetalbot).
 
 ---
 
