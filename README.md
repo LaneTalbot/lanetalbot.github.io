@@ -48,7 +48,10 @@ My fiction appears in *Best American Mystery Stories*, *Berkeley Fiction Review*
 
 Read more at [Dark Midwest](https://darkmidwest.substack.com) and [Thrill State](https://thrillstate.substack.com).
 
----
+<section>
+  <h2>Subscribe to My Newsletter</h2>
+  <iframe src="https://darkmidwest.substack.com/embed" width="100%" height="180" style="border:1px solid #ccc; background:#fff;" frameborder="0" scrolling="no"></iframe>
+</section>
 
 ## Advertising Strategy
 
