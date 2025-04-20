@@ -1,12 +1,10 @@
-<meta name="description" content="Lane Talbot is a writer, advertising strategist, and speaker. His fiction has appeared in Best American Mystery Stories and his advertising strategy work drives Fortune 500 growth.">
-<meta property="og:title" content="Lane Talbot – Writer & Advertising Strategist">
-<meta property="og:image" content="https://lanetalbot.com/path-to-headshot.jpg">
-<meta property="og:description" content="Award-winning fiction writer and advertising consultant. Explore fiction, essays, and strategy.">
 <style>
   body {
     font-family: Merriweather, serif;
     background: #f7f7f7;
     color: #222;
+    margin: 0;
+    padding: 2rem;
   }
   img {
     display: block;
@@ -21,71 +19,85 @@
   a:hover {
     text-decoration: underline;
   }
+  h1 {
+    text-align: center;
+  }
   h2 {
     border-bottom: 1px solid #eee;
     padding-bottom: 0.25rem;
+    margin-top: 2.5rem;
+  }
+  nav {
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+  nav a {
+    margin: 0 0.75em;
+    font-weight: bold;
+  }
+  section {
+    background: #fff;
+    padding: 2em;
+    border-radius: 10px;
+    max-width: 700px;
+    margin: 2em auto;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  }
+  footer {
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 0.9em;
+    color: #666;
   }
 </style>
 
-# Lane Talbot
-<h2 style="font-weight: normal; color: #444;">Fiction Writer | Advertising Strategist | Speaker</h2>
+<h1>Lane Talbot</h1>
+<h2 style="text-align:center; font-weight: normal; color: #444;">Fiction Writer | Advertising Strategist | Speaker</h2>
+<img src="LaneTalbotHeadshot (1).jpeg" alt="Lane Talbot Headshot" />
 
-![Lane Talbot](LaneTalbotHeadshot%20(1).jpeg)
-<div style="margin-top: 1em;">
-  <a href="https://darkmidwest.substack.com" style="padding: 0.5em 1em; background: #000; color: #fff; text-decoration: none; margin-right: 1em; border-radius: 5px;">Dark Midwest</a>
-  <a href="https://www.linkedin.com/in/lanetalbot" style="padding: 0.5em 1em; background: #0077b5; color: #fff; text-decoration: none; border-radius: 5px;">LinkedIn</a>
-</div>
+<nav>
+  <a href="#about">About</a>
+  <a href="#fiction">Fiction</a>
+  <a href="#consulting">Consulting</a>
+  <a href="#featured">Featured Work</a>
+  <a href="#contact">Contact</a>
+  <a href="https://darkmidwest.substack.com" target="_blank">Dark Midwest</a>
+  <a href="https://www.linkedin.com/in/lanetalbot" target="_blank">LinkedIn</a>
+</nav>
 
-[About](#about) | [Fiction](#fiction) | [Advertising](#advertising-strategy) | [Contact](#contact)
-
----
-
-## About
-
-I’m Lane Talbot—an award-winning fiction writer and advertising strategist at LinkedIn. I tell stories that move people, whether across pages or across pipelines. My work spans short stories published in top literary journals, and marketing strategy that drives Fortune 500 growth.
-
----
-
-## Fiction
-
-My fiction appears in *Best American Mystery Stories*, *Berkeley Fiction Review*, *ThugLit*, and more. I write about fear, survival, and the strange undercurrents of American life.
-
-Read more at [Dark Midwest](https://darkmidwest.substack.com) and [Thrill State](https://thrillstate.substack.com).
-
-<section>
-  <h2>Subscribe to My Newsletter</h2>
-  <iframe src="https://darkmidwest.substack.com/embed" width="100%" height="180" style="border:1px solid #ccc; background:#fff;" frameborder="0" scrolling="no"></iframe>
+<section id="about">
+  <h2>About</h2>
+  <p>I’m Lane Talbot—an award-winning fiction writer and advertising strategist at LinkedIn. I tell stories that move people, whether across pages or across pipelines. My work spans short stories published in top literary journals, and marketing strategy that drives Fortune 500 growth.</p>
 </section>
 
-## Advertising Strategy
+<section id="fiction">
+  <h2>Fiction</h2>
+  <p>My fiction appears in <em>Best American Mystery Stories</em>, <em>Berkeley Fiction Review</em>, <em>ThugLit</em>, and more. I write about fear, survival, and the strange undercurrents of American life.</p>
+  <p>Read more at <a href="https://darkmidwest.substack.com">Dark Midwest</a> and <a href="https://thrillstate.substack.com">Thrill State</a>.</p>
+</section>
 
-I help brands build authority, trust, and conversions through standout creative strategy and storytelling. I bring deep experience in brand narrative, inbound strategy, and content execution—and I speak regularly about advertising effectiveness and AI in marketing.
+<section id="consulting">
+  <h2>Consulting & Thought Leadership</h2>
+  <p>As a Senior Content Solutions Consultant at LinkedIn, I help brands build authority and trust through creative that actually converts. My background spans brand narrative, inbound strategy, and campaign execution.</p>
+  <p>I also speak regularly on storytelling, advertising effectiveness, and AI’s evolving role in marketing strategy. Follow my industry insights on <a href="https://www.linkedin.com/in/lanetalbot">LinkedIn</a>.</p>
+</section>
 
-Follow my work on [LinkedIn](https://linkedin.com/in/lanetalbot).
-
----
-
-<section>
+<section id="featured">
   <h2>Featured Work</h2>
   <ul>
-    <li><strong>Novella:</strong> “NORTH DARK”</li>
-    <li><strong>Short Fiction:</strong> “Destroyer Comes Home” – Notable Fiction in Best American Mystery Stories</li>
-    <li><strong>Blog:</strong> “<a href="[#](https://darkmidwest.substack.com/)">Dark Midwest</a></li>
+    <li><strong>Short Story:</strong> <a href="#">“Destroyer Comes Home”</a> — published in <em>Best American Mystery Stories</em></li>
+    <li><strong>Essay:</strong> <a href="#">“The Corleone Brand Strategy”</a> — How The Godfather built credibility through olive oil</li>
+    <li><strong>Microfiction:</strong> <a href="https://darkmidwest.substack.com">“The Shadow Man of Orion”</a> — from <em>Dark Midwest</em></li>
   </ul>
 </section>
 
----
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:lanetalbot@gmail.com">lanetalbot@gmail.com</a><br>
+     Twitter: <a href="https://twitter.com/lanetalbot" target="_blank">@lanetalbot</a></p>
+</section>
 
-## Contact
-
-Email: lane.talbot@outlook.com  
-Bluesky: [@lanetalbot]([https://bsky.app/profile/lanetalbot.bsky.social])
-
----
-
-© 2025 Lane Talbot. All rights reserved.
-<footer style="text-align: center; margin-top: 2em;">
-  <p>&copy; 2025 Lane Talbot. All rights reserved.</p>
-  <p><a href="mailto:lanetalbot@gmail.com">Email Me</a> | <a href="https://lanetalbot.com">Visit Again</a></p>
+<footer>
+  &copy; 2025 Lane Talbot. All rights reserved.
 </footer>
-
