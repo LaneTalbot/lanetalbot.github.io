@@ -1,3 +1,7 @@
+<meta name="description" content="Lane Talbot is a writer, advertising strategist, and speaker. His fiction has appeared in Best American Mystery Stories and his advertising strategy work drives Fortune 500 growth.">
+<meta property="og:title" content="Lane Talbot – Writer & Advertising Strategist">
+<meta property="og:image" content="https://lanetalbot.com/path-to-headshot.jpg">
+<meta property="og:description" content="Award-winning fiction writer and advertising consultant. Explore fiction, essays, and strategy.">
 <style>
   body {
     font-family: Merriweather, serif;
@@ -74,9 +78,14 @@ Follow my work on [LinkedIn](https://linkedin.com/in/lanetalbot).
 
 ## Contact
 
-Email: lanetalbot@gmail.com  
-Twitter: [@lanetalbot](https://twitter.com/lanetalbot)
+Email: lane.talbot@outlook.com  
+Bluesky: [@lanetalbot]([https://bsky.app/profile/lanetalbot.bsky.social])
 
 ---
 
 © 2025 Lane Talbot. All rights reserved.
+<footer style="text-align: center; margin-top: 2em;">
+  <p>&copy; 2025 Lane Talbot. All rights reserved.</p>
+  <p><a href="mailto:lanetalbot@gmail.com">Email Me</a> | <a href="https://lanetalbot.com">Visit Again</a></p>
+</footer>
+
