@@ -124,9 +124,9 @@
 <section id="what-i-do">
   <h2>What I Do</h2>
   <ul>
-    <li><strong>✍️ Fiction:</strong> Horror, thriller, craft essays.</li>
-    <li><strong>🧠 Consulting:</strong> Lead gen, brand strategy, AI.</li>
-    <li><strong>🎤 Speaking:</strong> Keynotes and talks on advertising, AI, and narrative.</li>
+    <li><strong>Fiction:</strong> Horror, thriller, craft essays.</li>
+    <li><strong>Consulting:</strong> Lead gen, brand strategy, AI.</li>
+    <li><strong>Speaking:</strong> Keynotes and talks on advertising, AI, and narrative.</li>
   </ul>
 </section>
 
