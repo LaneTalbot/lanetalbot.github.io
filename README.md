@@ -134,11 +134,11 @@
   <a href="https://www.linkedin.com/in/lanetalbot">LinkedIn</a>
 </nav>
 
-<p class="centered-bio">I write fiction about fear, survival, and the strange undercurrents of American life—and consult on brand strategy, storytelling, and advertising effectiveness.</p>
+<p class="centered-bio">Fiction and essays that pair well with exotic cocktails served in haunted hotel bars by the sexiest ghosts one could survive beholding directly..</p>
 
 <section id="about">
   <h2>About</h2>
-  <p>I'm Lane Talbot—an award-winning fiction writer and advertising strategist at LinkedIn. My work spans short stories published in top literary journals and marketing strategy that drives Fortune 500 growth.</p>
+  <p>I'm Lane Talbot—an award-winning fiction writer and advertising strategist at LinkedIn.</p>
 </section>
 
 <section id="fiction">
