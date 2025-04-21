@@ -134,7 +134,7 @@
   <a href="https://www.linkedin.com/in/lanetalbot">LinkedIn</a>
 </nav>
 
-<p class="centered-bio">Fiction and essays that pair well with exotic cocktails served in haunted hotel bars by the sexiest ghosts one could survive beholding directly..</p>
+<p class="centered-bio">Fiction and essays that pair well with exotic cocktails served in haunted hotel bars by the sexiest ghosts one could survive beholding directly.</p>
 
 <section id="about">
   <h2>About</h2>
