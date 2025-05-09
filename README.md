@@ -94,23 +94,9 @@ f<style>
 <section id="about">
   <h2>About</h2>
   <p>I’m Lane Talbot—an award-winning fiction writer and advertising strategist at LinkedIn. My work spans short stories published in top literary journals and marketing strategy that drives Fortune 500 growth.</p>
-</section>
-
-<section id="fiction">
-  <h2>Fiction</h2>
   <p>My fiction is listed in <em>Best American Mystery Stories</em>, and published in <em>Berkeley Fiction Review</em>, and more.</p>
-  <p>Read more at <a href="https://darkmidwest.substack.com">Dark Midwest</a>.</p>
-</section>
-
-<section id="subscribe">
-  <h2>Subscribe</h2>
-  <p>Get new stories and essays from the Dark Midwest straight to your inbox.</p>
-  <form action="https://darkmidwest.substack.com/subscribe" method="post" target="_blank">
-    <label for="email">Your email</label>
-    <input type="email" id="email" name="email" placeholder="you@example.com" required>
-    <input type="submit" value="Subscribe">
-    I also speak regularly on storytelling, advertising effectiveness, and AI’s evolving role in marketing. Follow my work on <a href="https://linkedin.com/in/lanetalbot">LinkedIn</a>.
-  </form>
+  <p>Serious blog:<a href="https://thrillstate.substack.com">Thrill State</a>.</p>
+  <p>Full psycho blog:<a href="https://darkmidwest.substack.com">Dark Midwest</a>.</p>
 </section>
 
 <section id="consulting">
