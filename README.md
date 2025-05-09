@@ -82,9 +82,6 @@
 
 <nav>
   <a href="#about">About</a>
-  <a href="#fiction">Fiction</a>
-  <a href="#consulting">Consulting</a>
-  <a href="#featured">Featured Work</a>
   <a href="#contact">Contact</a>
   <a href="https://darkmidwest.substack.com" target="_blank">Dark Midwest</a>
   <a href="https://linkedin.com/in/lanetalbot" target="_blank">LinkedIn</a>
