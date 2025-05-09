@@ -75,8 +75,6 @@ f<style>
     background: #005f99;
   }
 </style>
-
-<h1>Lane Talbot</h1>
 <p class="centered-bio">Fiction Writer | Advertising Strategist | Speaker</p>
 <img src="LaneTalbotHeadshot%20(1).jpeg" alt="Lane Talbot Headshot">
 
