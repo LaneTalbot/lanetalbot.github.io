@@ -112,37 +112,19 @@
     <label for="email">Your email</label>
     <input type="email" id="email" name="email" placeholder="you@example.com" required>
     <input type="submit" value="Subscribe">
+    I also speak regularly on storytelling, advertising effectiveness, and AI’s evolving role in marketing. Follow my work on <a href="https://linkedin.com/in/lanetalbot">LinkedIn</a>.
   </form>
 </section>
 
 <section id="consulting">
   <h2>Consulting & Thought Leadership</h2>
   <p>As a Senior Content Solutions Consultant at LinkedIn, I help brands build authority and trust through creative that actually converts. My background spans brand narrative, inbound strategy, and campaign execution.</p>
-  <p>I also speak regularly on storytelling, advertising effectiveness, and AI’s evolving role in marketing. Follow my work on <a href="https://linkedin.com/in/lanetalbot">LinkedIn</a>.</p>
-</section>
-
-<section id="what-i-do">
-  <h2>What I Do</h2>
-  <ul>
-    <li><strong>Fiction:</strong> Horror, thriller, craft essays.</li>
-    <li><strong>Consulting:</strong> Lead gen, brand strategy, AI.</li>
-    <li><strong>Speaking:</strong> Keynotes and talks on advertising, AI, and narrative.</li>
-  </ul>
-</section>
-
-<section id="featured">
-  <h2>Featured Work</h2>
-  <ul>
-    <li><strong>Short Story:</strong> <a href="#">“Destroyer Comes Home”</a> — listed as Notable Fiction in <em>Best American Mystery Stories</em></li>
-    <li><strong>Blog:</strong> <a href="https://darkmidwest.substack.com">DarkMidwest</a></li>
-  </ul>
-</section>
 
 <section id="contact">
   <h2>Contact</h2>
   <p>Email: <a href="mailto:lane.talbot@outlook.com">lane.talbot@outlook.com</a></p>
   <p>Bluesky: <a href="https://bsky.app/profile/lanetalbot">@lanetalbot</a></p>
-  <p>Threads: <a href="https://www.threads.net/@lane_talbot_and_ink">@lane_talbot_and_ink</a></p>
+  <p>Threads: <a href="https://www.threads.net/@lane_talbot_dmw">@lane_talbot_dmw</a></p>
 </section>
 
 <footer style="text-align:center; margin-top: 4rem; color: #888;">
