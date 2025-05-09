@@ -1,4 +1,4 @@
-f<style>
+<style>
   body {
     font-family: Merriweather, serif;
     background: #f5f7fa;
