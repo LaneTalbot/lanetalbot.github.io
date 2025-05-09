@@ -78,13 +78,6 @@
 <p class="centered-bio">Fiction Writer | Advertising Strategist | Speaker</p>
 <img src="LaneTalbotHeadshot%20(1).jpeg" alt="Lane Talbot Headshot">
 
-<nav>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
-  <a href="https://darkmidwest.substack.com" target="_blank">Dark Midwest</a>
-  <a href="https://linkedin.com/in/lanetalbot" target="_blank">LinkedIn</a>
-</nav>
-
 <p class="centered-bio">
   Fiction and essays that pair well with cocktails in haunted hotel bars—and consulting that decodes brand strategy, storytelling, and advertising effectiveness.
 </p>
